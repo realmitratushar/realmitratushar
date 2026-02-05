@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 AI Engineer Profile
+## 🚀 My Profile
 
 - 🎯 Focused on **Machine Learning, Computer Vision & NLP**
 - ⚙️ Building end-to-end ML pipelines from data processing to deployment
@@ -106,15 +106,24 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=realmitratushar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=realmitratushar&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&cache_seconds=86400" 
+    height="165"
+  />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realmitratushar&layout=compact&hide_border=true"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=realmitratushar&layout=compact&langs_count=8&hide_border=true&cache_seconds=86400"
+    height="165"
+  />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=realmitratushar&hide_border=true"/>
+  <img 
+    src="https://streak-stats.demolab.com?user=realmitratushar&hide_border=true&date_format=j%20M%5B%20Y%5D"
+    height="165"
+  />
 </p>
 
 ---
