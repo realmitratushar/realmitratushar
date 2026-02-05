@@ -103,32 +103,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=realmitratushar&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&cache_seconds=86400" 
-  height="160"
-/>
-
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=realmitratushar&layout=compact&langs_count=6&hide_border=true&cache_seconds=86400"
-  height="160"
-/>
-
-<img 
-  src="https://streak-stats.demolab.com?user=realmitratushar&hide_border=true"
-  height="160"
-/>
-
-</p>
-
-
----
-
 ## 📈 Contribution Activity
 
 <p align="center">
